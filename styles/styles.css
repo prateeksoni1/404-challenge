@@ -11,7 +11,7 @@
   min-height: 100vh;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .page {
     position: relative;
     width: 90%;
@@ -31,7 +31,7 @@
   font-size: 1.2rem;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .header {
     top: 10px;
   }
@@ -54,7 +54,7 @@
           justify-content: center;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .row {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -80,7 +80,7 @@
      object-fit: contain;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .col.right {
     display: -ms-grid;
     display: grid;
@@ -93,7 +93,7 @@
   font-size: 2.5rem;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .col.right h1 {
     font-size: 5rem;
   }
@@ -104,7 +104,7 @@
   font-size: 1.2rem;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .col.right p.lead {
     max-width: 40%;
   }
@@ -128,7 +128,7 @@
   margin-bottom: 1rem;
 }
 
-@media screen and (min-width: 765px) {
+@media screen and (min-width: 1000px) {
   .footer {
     position: absolute;
     bottom: 0;
